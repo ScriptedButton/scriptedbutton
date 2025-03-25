@@ -1,17 +1,144 @@
-<h1 align="center">Hi 👋, I'm Cole</h1>
-<h3 align="center">A cybersecurity student at Purdue University.</h3>
+# 👋 Hi, I'm Cole
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptedbutton&label=Profile%20views&color=0e75b6&style=flat" alt="scriptedbutton" /> </p>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=scriptedbutton&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/scriptedbutton)
+  [![GitHub followers](https://img.shields.io/github/followers/scriptedbutton?label=Followers&style=social)](https://github.com/scriptedbutton)
+  [![GitHub Stars](https://img.shields.io/github/stars/scriptedbutton?label=Stars&style=social)](https://github.com/scriptedbutton)
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptedbutton" alt="scriptedbutton" /></a> </p>
+## 🎓 About Me
 
+I'm a cybersecurity student at Purdue University, passionate about developing secure and efficient software solutions. I enjoy working on projects that combine security principles with modern development practices.
 
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">diagramify</h3>
+        <div align="center">  
+          <a href="https://github.com/scriptedbutton/diagramify" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptedbutton&repo=diagramify&theme=tokyonight" alt="Project 1" />
+          </a>
+          <br>
+          <a href="https://github.com/scriptedbutton/diagramify" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Project 1 Repo" />
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">disksense</h3>
+        <div align="center">
+          <a href="https://github.com/scriptedbutton/disksense" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptedbutton&repo=disksense&theme=tokyonight" alt="Project 2" />
+          </a>
+          <br>
+          <a href="https://github.com/scriptedbutton/disksense" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Project 2 Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">rustshark</h3>
+        <div align="center">
+          <a href="https://github.com/scriptedbutton/rustshark" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptedbutton&repo=rustshark&theme=tokyonight" alt="Project 3" />
+          </a>
+          <br>
+          <a href="https://github.com/scriptedbutton/rustshark" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Project 3 Repo" />
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">life</h3>
+        <div align="center">
+          <a href="https://github.com/scriptedbutton/life" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptedbutton&repo=life&theme=tokyonight" alt="Project 4" />
+          </a>
+          <br>
+          <a href="https://github.com/scriptedbutton/life" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Project 4 Repo" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptedbutton&show_icons=true&locale=en&layout=compact" alt="scriptedbutton" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptedbutton&show_icons=true&locale=en" alt="scriptedbutton" /></p>
+### Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptedbutton&" alt="scriptedbutton" /></p>
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=unity&logoColor=white)
+
+### Frontend
+
+![React](https://shields.io/badge/react-black?logo=react&style=flat-square)
+![tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![shadcn](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white)
+
+### Backend & Databases
+
+![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?&style=flat-square&logo=Proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=flat-square&logo=kubernetes&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scriptedbutton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptedbutton&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=scriptedbutton&theme=tokyonight&no-frame=false&column=7&margin-w=15&margin-h=15" alt="scriptedbutton" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/scriptedbutton)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-brooks/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:macoryx@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>
+
+<!--
+**scriptedbutton/scriptedbutton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
